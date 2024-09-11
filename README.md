@@ -1,3 +1,4 @@
 # lab_3_flutter
 
-A new Flutter project.
+Laboratorio del dia 11-09-2024
+
